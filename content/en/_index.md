@@ -1,11 +1,7 @@
 ---
-title: "Safe Now: Eaton Action"
-
-description: "This is a test page
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
-theme_version: '2.8.2'
-cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: "Home"
+date: "2025-02-02T14:40:43-08:00"
+draft: false
 ---
 
-Welcome Eaton Fire Action Committee
+Welcome to our demo site for the Eaton Fire area.

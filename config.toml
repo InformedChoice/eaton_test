@@ -1,5 +1,11 @@
 baseURL = "https://playful-cannoli-2eca65.netlify.app/"
 title = "Eaton Test Demo"
-defaultContentLanguage = "en"
 theme = "ananke"
 
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageCode = "en"   # using "en" (or "en-us") as needed
+    languageName = "English"
+    weight = 1

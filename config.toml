@@ -1,7 +1,7 @@
 baseURL = "https://playful-cannoli-2eca65.netlify.app/"
 languageCode = "en-us"
 title = "Eaton Test Demo"
-theme = "ananke"
+
 
 [languages]
   [languages.en]

@@ -3,9 +3,4 @@ languageCode = "en-us"
 title = "Eaton Test Demo"
 theme = "ananke"
 
-[languages]
-  [languages.en]
-    languageCode = "en-us"
-    languageName = "English"
-    weight = 1
 

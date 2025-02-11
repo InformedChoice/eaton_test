@@ -1,146 +1,114 @@
 ---
 date: 2025-02-02T18:38:20-08:00
-description: "Solomons Reading"
-tags: ["Reading", "California Wildfires", "2025"]
-title: "Solomon's reading 2/3/2025"
+description: Reading"
 ---
 
-**English:** and the boy carried the wooden boat with the coiled, hard-braided brown lines, the gaff and the harpoon with its shaft.  
-**Spanish:** y el niño llevaba el bote de madera con las cuerdas marrones, enrolladas y trenzadas, el garfio y el arpón con su asta.
+The old man opened his eyes.
+El viejo abrió los ojos.
 
-**English:** The box with the baits was under the stern of the skiff along with the club that was used to subdue the big fish when they were brought alongside.  
-**Spanish:** La caja con los cebos estaba bajo la parte trasera del bote, junto con el palo que se usaba para someter a los peces grandes cuando los traían al lado.
+For a moment, it seemed like he was waking up from a long dream.
+Por un momento, parecía que despertaba de un largo sueño.
 
-**English:** No one would steal from the old man, but it was better to take the sail and the heavy lines home as the dew was bad for them, and, though he was quite sure no local people would steal from him, the old man thought that a gaff and a harpoon were needless temptations to leave in a boat.  
-**Spanish:** Nadie le robaría al viejo, pero era mejor llevarse la vela y las cuerdas gruesas a casa, ya que el rocío las dañaba, y aunque estaba seguro de que nadie del pueblo le robaría, el viejo pensaba que dejar el garfio y el arpón en el bote era una tentación innecesaria.
+Then he smiled.
+Luego sonrió.
 
-**English:** They walked up the road together to the old man’s shack and went in through its open door.  
-**Spanish:** Caminaron juntos por la calle hasta la choza del viejo y entraron por la puerta abierta.
+“What do you have?” he asked.
+”¿Qué tienes?” preguntó.
 
-**English:** The old man leaned the mast with its wrapped sail against the wall, and the boy put the box and the other gear beside it.  
-**Spanish:** El viejo apoyó el mástil con la vela enrollada contra la pared, y el niño puso la caja y el resto del equipo a su lado.
+“Supper,” the boy said. “We’re going to eat.”
+“La cena,” dijo el niño. “Vamos a comer.”
 
-**English:** The mast was nearly as long as the only room of the shack.  
-**Spanish:** El mástil era casi tan largo como la única habitación de la choza.
+“I’m not very hungry.”
+“No tengo mucha hambre.”
 
-**English:** The shack was made of the tough budshields of the royal palm, which are called guano, and in it there was a bed, a table, one chair, and a place on the dirt floor to cook with charcoal.  
-**Spanish:** La choza estaba hecha de las hojas fuertes de la palma real, que se llaman guano, y en ella había una cama, una mesa, una silla y un lugar en el suelo de tierra para cocinar con carbón.
+“Come on, you have to eat. You can’t go fishing without eating.”
+“Vamos, tienes que comer. No puedes ir a pescar sin comer.”
 
-**English:** On the brown walls made of flattened, overlapping leaves of the sturdy, fibrous guano, there was a color picture of the Sacred Heart of Jesus and another of the Virgin of Cobre.  
-**Spanish:** En las paredes marrones hechas de hojas aplanadas y superpuestas del resistente guano fibroso, había una foto a color del Sagrado Corazón de Jesús y otra de la Virgen de Cobre.
+“I have before,” the old man said.
+“Lo he hecho antes,” dijo el viejo.
 
-**English:** These were relics of his wife.  
-**Spanish:** Estos eran recuerdos de su esposa.
+He sat up, picked up the newspaper, and folded it. Then he started to fold his blanket.
+Se sentó, recogió el periódico y lo dobló. Luego empezó a doblar su manta.
 
-**English:** Once there had been a tinted photograph of his wife on the wall, but he had taken it down because it made him too lonely to see it, and it was placed on a shelf in the corner under his clean shirt.  
-**Spanish:** Una vez hubo una foto a color de su esposa en la pared, pero él la quitó porque lo hacía sentir muy solo, y la puso en un estante en la esquina, debajo de su camisa limpia.
+“Keep the blanket on,” the boy said.
+“Deja la manta puesta,” dijo el niño.
 
-**English:** “What do you have to eat?” the boy asked.  
-**Spanish:** —¿Qué tienes para comer? —preguntó el niño.
+“You won’t go fishing without eating while I’m here.”
+“No vas a ir a pescar sin comer mientras yo esté aquí.”
 
-**English:** “A pot of yellow rice with fish.”  
-**Spanish:** —Un plato de arroz amarillo con pescado.
+“Then stay around for a long time and take care of yourself,” the old man said.
+“Entonces quédate mucho tiempo y cuídate,” dijo el viejo.
 
-  
-**English:** “Do you want some?”  
-**Spanish:** —¿Quieres un poco?
+“What’s for supper?”
+”¿Qué hay para cenar?”
 
-  
-**English:** “No.”  
-**Spanish:** —No.
+“Black beans and rice, fried bananas, and some stew.”
+“Frijoles negros con arroz, plátanos fritos y un poco de guiso.”
 
-  
-**English:** “I will eat at home.”  
-**Spanish:** —Comeré en casa.
+The boy had brought the food in a metal container with two levels.
+El niño había traído la comida en un recipiente de metal con dos niveles.
 
-  
-**English:** “Do you want me to make the fire?”  
-**Spanish:** —¿Quieres que haga el fuego?
+He had two sets of forks, knives, and spoons wrapped in napkins in his pocket.
+Tenía dos juegos de tenedores, cuchillos y cucharas envueltos en servilletas en su bolsillo.
 
-  
-**English:** “No.”  
-**Spanish:** —No.
+“Who gave this to you?”
+”¿Quién te dio esto?”
 
-  
-**English:** “I will make it later on.”  
-**Spanish:** —Lo haré después.
+“Martin. He owns the restaurant.”
+“Martín. Es el dueño del restaurante.”
 
-  
-**English:** “Or I may eat the rice cold.”  
-**Spanish:** —O quizás coma el arroz frío.
+“I need to thank him.”
+“Necesito agradecerle.”
 
-  
-**English:** “May I take the cast net?”  
-**Spanish:** —¿Puedo llevar la red de pesca?
+“I already thanked him,” the boy said. “You don’t have to.”
+“Ya le agradecí,” dijo el niño. “No tienes que hacerlo.”
 
-  
-**English:** “Of course.”  
-**Spanish:** —Claro.
+“I’ll give him some good fish meat,” the old man said.
+“Le daré un buen trozo de carne de pescado,” dijo el viejo.
 
-  
-**English:** There was no cast net, and the boy remembered when they had sold it.  
-**Spanish:** No había red de pesca, y el niño recordó cuando la habían vendido.
+“Has he helped us before?”
+”¿Nos ha ayudado antes?”
 
-  
-**English:** But they went through this fiction every day.  
-**Spanish:** Pero contaban esa historia todos los días.
+“I think so.”
+“Creo que sí.”
 
-  
-**English:** There was no pot of yellow rice with fish, and the boy knew this too.  
-**Spanish:** No había arroz amarillo con pescado, y el niño también lo sabía.
+“Then I should give him more than just fish meat. He is very kind to us.”
+“Entonces debería darle más que solo carne de pescado. Es muy amable con nosotros.”
 
-  
-**English:** “Eighty-five is a lucky number,” the old man said.  
-**Spanish:** —Ochenta y cinco es un número de suerte —dijo el viejo.
+“He sent two beers too.”
+“También envió dos cervezas.”
 
-  
-**English:** “How would you like to see me bring one in that dressed out over a thousand pounds?”  
-**Spanish:** —¿Te gustaría verme traer uno que pese más de mil libras?
+“I like beer in cans best.”
+“Me gusta más la cerveza en latas.”
 
-  
-**English:** “I’ll get the cast net and go for sardines.”  
-**Spanish:** —Voy a buscar la red de pesca y a ir por sardinas.
+“I know. But this is in bottles—Hatuey beer. I will take the bottles back.”
+“Lo sé. Pero esta es en botellas—cerveza Hatuey. Devolveré las botellas.”
 
-  
-**English:** “Will you sit in the sun in the doorway?”  
-**Spanish:** —¿Te sentarás al sol en la puerta?
+“That’s very nice of you,” the old man said. “Should we eat?”
+“Eso es muy amable de tu parte,” dijo el viejo. “¿Comemos?”
 
-  
-**English:** “Yes.”  
-**Spanish:** —Sí.
+“I’ve been waiting for you,” the boy said kindly. “I didn’t want to open the food until you were ready.”
+“Te he estado esperando,” dijo el niño con amabilidad. “No quería abrir la comida hasta que estuvieras listo.”
 
-  
-**English:** “I have yesterday’s paper and I will read the baseball.”  
-**Spanish:** —Tengo el periódico de ayer y voy a leer sobre béisbol.
+“I’m ready now,” the old man said. “I just needed to wash up.”
+“Ahora estoy listo,” dijo el viejo. “Solo necesitaba lavarme.”
 
-  
-**English:** The boy did not know whether yesterday’s paper was a fiction too.  
-**Spanish:** El niño no sabía si el periódico de ayer también era inventado.
+Where did he wash? the boy wondered.
+¿Dónde se lavó? se preguntó el niño.
 
-  
-**English:** But the old man brought it out from under the bed.  
-**Spanish:** Pero el viejo lo sacó de debajo de la cama.
+The village water was two streets away.
+El agua del pueblo estaba a dos calles de distancia.
 
-  
-**English:** “Perico gave it to me at the bodega,” he explained.  
-**Spanish:** —Perico me lo dio en la tienda —explicó él.
+I need to bring water for him, the boy thought.
+Tengo que traerle agua, pensó el niño.
 
-  
-**English:** “I’ll be back when I have the sardines.”  
-**Spanish:** —Volveré cuando tenga las sardinas.
+And soap, and a good towel.
+Y jabón, y una buena toalla.
 
-  
-**English:** “I’ll keep yours and mine together on ice and we can share them in the morning.”  
-**Spanish:** —Pondré las tuyas y las mías juntas en hielo y las compartiremos en la mañana.
+Why didn’t I think of that before?
+¿Por qué no pensé en eso antes?
 
-  
-**English:** “When I come back you can tell me about the baseball.”  
-**Spanish:** —Cuando regrese, me contarás sobre el béisbol.
+I should get him a new shirt, a warm jacket for winter, some shoes, and another blanket.
+Debería conseguirle una camisa nueva, una chaqueta abrigada para el invierno, unos zapatos y otra manta.
 
-  
-**English:** “The Yankees cannot lose.”  
-**Spanish:** —Los Yankees no pueden perder.
-
-  
-**English:** “But I fear the Indians of Cleveland.”  
-**Spanish:** —Pero temo a los Indians de Cleveland.
+This Markdown format makes it easy to read in a structured way, ensuring that both English and Spanish lines are clear and accessible. Let me know if you need any modifications!

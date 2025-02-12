@@ -5,7 +5,8 @@ description: Reading"
 
 # Bilingual Reading: English & Spanish
 
-![Yankee Stadium](./public/images/medjourneyai_1920s_yankee_stadium_from_overhead_yankees_vs_mets_91ed4c43-6a28-41a0-8731-acc9e21c5394.png "1920s Yankee Stadium")
+![Yankee Stadium](../../public/images/medjourneyai_1920s_yankee_stadium_from_overhead_yankees_vs_mets_91ed4c43-6a28-41a0-8731-acc9e21c5394.png "1920s Yankee Stadium")
+
 
 This document presents the text in two languages. Each section shows the English sentence first, followed by its Spanish translation. Use the Table of Contents below to quickly jump to a section and keep track of your reading progress.
 

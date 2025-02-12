@@ -4,7 +4,7 @@ description: Reading"
 ---
 
 
-The old man opened his eyes.
+The young man opened his eyes.
 
 El viejo abrió los ojos.
 

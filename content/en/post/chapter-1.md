@@ -3,8 +3,9 @@ date: 2025-02-02T18:38:20-08:00
 description: Reading"
 ---
 
-
 # Bilingual Reading: English & Spanish
+
+![Scenic Baseball Field](https://via.placeholder.com/600x200?text=Baseball+Field "Scenic Baseball Field")
 
 This document presents the text in two languages. Each section shows the English sentence first, followed by its Spanish translation. Use the Table of Contents below to quickly jump to a section and keep track of your reading progress.
 
@@ -271,6 +272,8 @@ This document presents the text in two languages. Each section shows the English
 
 ## Narrative (Lines 69-83) <a name="narrative-lines-69-83"></a>
 
+![Old Man Sleeping](https://via.placeholder.com/600x200?text=Old+Man+Sleeping "Old Man Sleeping")
+
 69. **English:** The boy went out.  
     **Español:** El muchacho salió.
 
@@ -321,3 +324,4 @@ This document presents the text in two languages. Each section shows the English
 ---
 
 *Note: Use the "Back to TOC" links above to quickly navigate back to the Table of Contents and help you keep track of your reading position on your phone.*
+

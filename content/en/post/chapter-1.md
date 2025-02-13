@@ -274,7 +274,7 @@ This document presents the text in two languages. Each section shows the English
 
 ## Narrative (Lines 69-83) <a name="narrative-lines-69-83"></a>
 
-![Old Man Sleeping](https://via.placeholder.com/600x200?text=Old+Man+Sleeping "Old Man Sleeping")
+![Old Man Sleeping](/images/medjourneyai_old_fisherman_sleeping_on_a_cot_in_a_beach_hut_in__bd959b09-28c6-496c-8255-c94c145473ef.png "Old Man Sleeping")
 
 69. **English:** The boy went out.  
     **Español:** El muchacho salió.

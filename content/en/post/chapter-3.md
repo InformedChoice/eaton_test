@@ -1,6 +1,7 @@
 ---
-date: 2025-02-17T09:30:00-08:00
-description: Reading
+title: "Chapter 3: Reading"
+date: 2025-02-02
+draft: false
 ---
 
 # Bilingual Reading: English & Spanish

@@ -1,329 +1,233 @@
 ---
-date: 2025-02-02T18:38:20-08:00
-description: Reading"
+date: 2025-02-17T09:00:00-08:00
+description: Reading
 ---
 
 # Bilingual Reading: English & Spanish
 
-![Yankee Stadium](/images/medjourneyai_1920s_yankee_stadium_from_overhead_yankees_vs_mets_91ed4c43-6a28-41a0-8731-acc9e21c5394.png "1920s Yankee Stadium")
+![The Old Man and the Sea](https://via.placeholder.com/1920x1080 "The Old Man and the Sea")
 
-
-
-This document presents the text in two languages. Each section shows the English sentence first, followed by its Spanish translation. Use the Table of Contents below to quickly jump to a section and keep track of your reading progress.
 
 ---
 
 ## Table of Contents
 
-- [Dialogue Part 1 (Lines 1-10)](#dialogue-part-1-lines-1-10)
-- [Dialogue Part 2 (Lines 11-20)](#dialogue-part-2-lines-11-20)
-- [Dialogue Part 3 (Lines 21-30)](#dialogue-part-3-lines-21-30)
-- [Dialogue Part 4 (Lines 31-40)](#dialogue-part-4-lines-31-40)
-- [Dialogue Part 5 (Lines 41-50)](#dialogue-part-5-lines-41-50)
-- [Dialogue Part 6 (Lines 51-60)](#dialogue-part-6-lines-51-60)
-- [Dialogue Part 7 (Lines 61-68)](#dialogue-part-7-lines-61-68)
-- [Narrative (Lines 69-83)](#narrative-lines-69-83)
+- [Narrative Part 8: Section 1 (Lines 1–3)](#narrative-part-8-section-1-lines-1-3)
+- [Narrative Part 8: Section 2 (Lines 4–7)](#narrative-part-8-section-2-lines-4-7)
+- [Narrative Part 8: Section 3 (Lines 8–13)](#narrative-part-8-section-3-lines-8-13)
+- [Narrative Part 8: Section 4 (Lines 14–23)](#narrative-part-8-section-4-lines-14-23)
+- [Narrative Part 8: Section 5 (Lines 24–28)](#narrative-part-8-section-5-lines-24-28)
+- [Narrative Part 8: Section 6 (Lines 29–32)](#narrative-part-8-section-6-lines-29-32)
+- [Narrative Part 8: Section 7 (Lines 33–38)](#narrative-part-8-section-7-lines-33-38)
+- [Narrative Part 8: Section 8 (Lines 39–44)](#narrative-part-8-section-8-lines-39-44)
+- [Narrative Part 8: Section 9 (Lines 45–52)](#narrative-part-8-section-9-lines-45-52)
 
 ---
 
-## Dialogue Part 1 (Lines 1-10) <a name="dialogue-part-1-lines-1-10"></a>
+## Narrative Part 8: Section 1 (Lines 1–3) <a name="narrative-part-8-section-1-lines-1-3"></a>
 
-1. **English:** “Your stew is excellent,” the old man said.  
-   **Español:** “Tu guiso es excelente,” dijo el viejo.
+1. **English:** Outside the shack and then went up the road to wake the boy.  
+   **Español:** Salió de la choza y luego subió por el camino para despertar al muchacho.
 
-2. **English:** “Tell me about the baseball,” the boy asked him.  
-   **Español:** “Cuéntame sobre el béisbol,” le preguntó el muchacho.
+2. **English:** He was shivering with the morning cold.  
+   **Español:** Temblaba por el frío de la mañana.
 
-3. **English:** “In the American League it is the Yankees as I said,” the old man said happily.  
-   **Español:** “En la Liga Americana, son los Yankees, como dije,” dijo el viejo felizmente.
-
-4. **English:** “They lost today,” the boy told him.  
-   **Español:** “Perdieron hoy,” le dijo el muchacho.
-
-5. **English:** “That means nothing.”  
-   **Español:** “Eso no significa nada.”
-
-6. **English:** “The great DiMaggio is himself again.”  
-   **Español:** “El gran DiMaggio vuelve a ser él mismo.”
-
-7. **English:** “They have other men on the team.”  
-   **Español:** “Tienen otros hombres en el equipo.”
-
-8. **English:** “Naturally.”  
-   **Español:** “Naturalmente.”
-
-9. **English:** “But he makes the difference.”  
-   **Español:** “Pero él marca la diferencia.”
-
-10. **English:** “In the other league, between Brooklyn and Philadelphia I must take Brooklyn.”  
-    **Español:** “En la otra liga, entre Brooklyn y Filadelfia, debo elegir a Brooklyn.”
+3. **English:** But he knew he would shiver himself warm and that soon he would be rowing.  
+   **Español:** Pero sabía que se calentaría temblando y que pronto estaría remando.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-## Dialogue Part 2 (Lines 11-20) <a name="dialogue-part-2-lines-11-20"></a>
+## Narrative Part 8: Section 2 (Lines 4–7) <a name="narrative-part-8-section-2-lines-4-7"></a>
 
-11. **English:** “But then I think of Dick Sisler and those great drives in the old park.”  
-    **Español:** “Pero luego pienso en Dick Sisler y en aquellos grandes batazos en el viejo parque.”
+4. **English:** The door of the house where the boy lived was unlocked, and he opened it and walked in quietly with his bare feet.  
+   **Español:** La puerta de la casa donde vivía el muchacho estaba sin llave, y él la abrió y entró silenciosamente con sus pies descalzos.
 
-12. **English:** “There was nothing ever like them.”  
-    **Español:** “Nunca hubo nada como ellos.”
+5. **English:** The boy was asleep on a cot in the first room, and the old man could see him clearly in the light of the dying moon.  
+   **Español:** El muchacho dormía en un catre en la primera habitación, y el viejo lo veía claramente a la luz de la luna moribunda.
 
-13. **English:** “He hits the longest ball I have ever seen.”  
-    **Español:** “Él batea la bola más larga que he visto.”
+6. **English:** He took hold of one foot gently and held it until the boy woke and turned to look at him.  
+   **Español:** Agarró suavemente uno de sus pies y lo sostuvo hasta que el muchacho se despertó y lo miró.
 
-14. **English:** “Do you remember when he used to come to the Terrace?”  
-    **Español:** “¿Recuerdas cuando solía venir a la Terraza?”
-
-15. **English:** [21] “I wanted to take him fishing but I was too timid to ask him.”  
-    **Español:** [21] “Quería llevarlo a pescar, pero era demasiado tímido para preguntarle.”
-
-16. **English:** “Then I asked you to ask him and you were too timid.”  
-    **Español:** “Luego te pedí que le preguntaras, y fuiste demasiado tímido.”
-
-17. **English:** “I know.”  
-    **Español:** “Lo sé.”
-
-18. **English:** “It was a great mistake.”  
-    **Español:** “Fue un gran error.”
-
-19. **English:** “He might have gone with us.”  
-    **Español:** “Podría haber ido con nosotros.”
-
-20. **English:** “Then we would have that for all of our lives.”  
-    **Español:** “Entonces lo habríamos tenido para toda nuestra vida.”
+7. **English:** The old man nodded, and the boy took his trousers from the chair by the bed and, sitting on the bed, pulled them on.  
+   **Español:** El viejo asintió, y el muchacho tomó los pantalones de la silla junto a la cama y, sentándose, se los puso.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-## Dialogue Part 3 (Lines 21-30) <a name="dialogue-part-3-lines-21-30"></a>
+## Narrative Part 8: Section 3 (Lines 8–13) <a name="narrative-part-8-section-3-lines-8-13"></a>
 
-21. **English:** “I would like to take the great DiMaggio fishing,” the old man said.  
-    **Español:** “Me gustaría llevar al gran DiMaggio a pescar,” dijo el viejo.
+8. **English:** The old man went out the door, and the boy followed him.  
+   **Español:** El viejo salió por la puerta, y el muchacho lo siguió.
 
-22. **English:** “They say his father was a fisherman.”  
-    **Español:** “Dicen que su padre era pescador.”
+9. **English:** The boy was sleepy, and the old man put his arm around his shoulders and said, “I am sorry.”  
+   **Español:** El muchacho estaba soñoliento, y el viejo le pasó el brazo por los hombros y dijo: “Lo siento.”
 
-23. **English:** “Maybe he was as poor as we are and would understand.”  
-    **Español:** “Quizás era tan pobre como nosotros y lo entendería.”
+10. **English:** “Qua Va,” the boy said.  
+    **Español:** “Qua Va”, dijo el muchacho.
 
-24. **English:** “The great Sisler’s father was never poor and he, the father, was playing in the Big Leagues when he was my age.”  
-    **Español:** “El padre del gran Sisler nunca fue pobre y él, el padre, jugaba en las Grandes Ligas cuando tenía mi edad.”
+11. **English:** “It is what a man must do,” he replied.  
+    **Español:** “Es lo que un hombre debe hacer”, respondió.
 
-25. **English:** “When I was your age I was before the mast on a square rigged ship that ran to Africa and I have seen lions on the beaches in the evening.”  
-    **Español:** “Cuando tenía tu edad, estaba junto al mástil de un barco de vela cuadrada que navegaba a África y he visto leones en las playas al atardecer.”
+12. **English:** They walked down the road to the old man’s shack, and along the dark path, barefoot men were moving, carrying the masts of their boats.  
+    **Español:** Caminaron por el camino hacia la choza del viejo, y a lo largo del sendero oscuro, hombres descalzos se movían, llevando los mástiles de sus barcos.
 
-26. **English:** “I know.”  
-    **Español:** “Lo sé.”
-
-27. **English:** “You told me.”  
-    **Español:** “Me lo dijiste.”
-
-28. **English:** “Should we talk about Africa or about baseball?”  
-    **Español:** “¿Hablamos de África o de béisbol?”
-
-29. **English:** “Baseball I think,” the boy said.  
-    **Español:** “Béisbol, creo,” dijo el muchacho.
-
-30. **English:** “Tell me about the great John J. McGraw.”  
-    **Español:** “Cuéntame acerca del gran John J. McGraw.”
+13. **English:** When they reached the shack, the boy took the rolls of line from the basket, along with the harpoon and gaff, while the old man carried the mast with the furled sail on his shoulder.  
+    **Español:** Cuando llegaron a la choza, el muchacho tomó los rollos de cuerda de la canasta, junto con el arpón y el garfio, mientras el viejo cargaba el mástil con la vela enrollada sobre su hombro.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-## Dialogue Part 4 (Lines 31-40) <a name="dialogue-part-4-lines-31-40"></a>
+## Narrative Part 8: Section 4 (Lines 14–23) <a name="narrative-part-8-section-4-lines-14-23"></a>
 
-31. **English:** He said Jota for J.  
-    **Español:** (Él dijo “Jota” por “J”.)
+14. **English:** “Do you want coffee?” the boy asked.  
+    **Español:** “¿Quieres café?”, preguntó el muchacho.
 
-32. **English:** “He used to come to the Terrace sometimes too in the older days.”  
-    **Español:** “Él solía venir a la Terraza a veces también en aquellos días.”
+15. **English:** “We’ll put the gear in the boat and then get some,” he continued.  
+    **Español:** “Pondremos el equipo en el bote y luego conseguiremos algo”, continuó.
 
-33. **English:** “But he was rough and harsh-spoken and difficult when he was drinking.”  
-    **Español:** “Pero era brusco, de hablar rudo y difícil cuando bebía.”
+16. **English:** They had coffee from condensed milk cans at an early morning place that served fishermen.  
+    **Español:** Tomaron café de latas de leche condensada en un lugar madrugador que atendía a los pescadores.
 
-34. **English:** “His mind was on horses as well as baseball.”  
-    **Español:** “Su mente estaba puesta en los caballos así como en el béisbol.”
+17. **English:** “How did you sleep, old man?” the boy asked.  
+    **Español:** “¿Cómo dormiste, viejo?”, preguntó el muchacho.
 
-35. **English:** “At least he carried lists of [22] horses at all times in his pocket and frequently spoke the names of horses on the telephone.”  
-    **Español:** “Al menos, siempre llevaba listas de [22] caballos en su bolsillo y frecuentemente mencionaba los nombres de los caballos por teléfono.”
+18. **English:** He was waking up, although it was still hard for him to leave his sleep.  
+    **Español:** Se estaba despertando, aunque aún le costaba abandonar el sueño.
 
-36. **English:** “He was a great manager,” the boy said.  
-    **Español:** “Era un gran mánager,” dijo el muchacho.
+19. **English:** “Very well, Manolin,” the old man said, “I feel confident today.”  
+    **Español:** “Muy bien, Manolín”, dijo el viejo, “me siento confiado hoy.”
 
-37. **English:** “My father thinks he was the greatest.”  
-    **Español:** “Mi padre cree que fue el mejor.”
+20. **English:** “So do I,” the boy said, “now I must get your sardines, mine, and your fresh baits. He brings our gear himself; he never wants anyone to carry anything.”  
+    **Español:** “Yo también”, dijo el muchacho, “ahora debo buscar tus sardinas, las mías y tus cebos frescos. Él lleva nuestro equipo él mismo; nunca quiere que nadie lleve nada.”
 
-38. **English:** “Because he came here the most times,” the old man said.  
-    **Español:** “Porque venía aquí más veces,” dijo el viejo.
+21. **English:** “We’re different,” the old man said, “I let you carry things when you were five years old.”  
+    **Español:** “Somos diferentes”, dijo el viejo, “yo te dejaba llevar cosas cuando tenías cinco años.”
 
-39. **English:** “If Durocher had continued to come here each year your father would think him the greatest manager.”  
-    **Español:** “Si Durocher hubiera seguido viniendo aquí cada año, tu padre lo consideraría el mejor mánager.”
+22. **English:** “I know it,” the boy said, “I’ll be right back. Have another coffee. We have credit here.”  
+    **Español:** “Lo sé”, dijo el muchacho, “vuelvo enseguida. Toma otro café. Aquí tenemos crédito.”
 
-40. **English:** “Who is the greatest manager, really, Luque or Mike Gonzalez?”  
-    **Español:** “¿Quién es el mejor mánager, realmente, Luque o Mike Gonzalez?”
-
-[Back to TOC](#table-of-contents)
-
----
-
-## Dialogue Part 5 (Lines 41-50) <a name="dialogue-part-5-lines-41-50"></a>
-
-41. **English:** “I think they are equal.”  
-    **Español:** “Creo que son iguales.”
-
-42. **English:** “And the best fisherman is you.”  
-    **Español:** “Y el mejor pescador eres tú.”
-
-43. **English:** “No. I know others better.”  
-    **Español:** “No. Conozco a otros mejores.”
-
-44. **English:** “Que Va,” the boy said.  
-    **Español:** “‘Que Va,’” dijo el muchacho.
-
-45. **English:** “There are many good fishermen and some great ones.”  
-    **Español:** “Hay muchos buenos pescadores y algunos grandes.”
-
-46. **English:** “But there is only you.”  
-    **Español:** “Pero solo eres tú.”
-
-47. **English:** “Thank you.”  
-    **Español:** “Gracias.”
-
-48. **English:** “You make me happy.”  
-    **Español:** “Me haces feliz.”
-
-49. **English:** “I hope no fish will come along so great that he will prove us wrong.”  
-    **Español:** “Espero que no aparezca ningún pez tan grande que nos demuestre lo contrario.”
-
-50. **English:** “There is no such fish if you are still strong as you say.”  
-    **Español:** “No existe tal pez si aún eres tan fuerte como dices.”
+23. **English:** He walked off, barefoot on the coral rocks, to the ice house where the baits were stored.  
+    **Español:** Se fue caminando, descalzo sobre las rocas de coral, hacia la hielera donde se guardaban los cebos.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-## Dialogue Part 6 (Lines 51-60) <a name="dialogue-part-6-lines-51-60"></a>
+## Narrative Part 8: Section 5 (Lines 24–28) <a name="narrative-part-8-section-5-lines-24-28"></a>
 
-51. **English:** “I may not be as strong as I think,” the old man said.  
-    **Español:** “Puede que no sea tan fuerte como creo,” dijo el viejo.
+24. **English:** The old man drank his coffee slowly.  
+    **Español:** El viejo bebía su café despacio.
 
-52. **English:** “But I know many tricks and I have resolution.”  
-    **Español:** “Pero conozco muchos trucos y tengo determinación.”
+25. **English:** It was all he would have all day, and he knew that he should take it.  
+    **Español:** Era lo único que tomaría en todo el día, y sabía que debía hacerlo.
 
-53. **English:** “You ought to go to bed now so that you will be fresh in the morning.”  
-    **Español:** “Deberías ir a la cama ahora para estar fresco por la mañana.”
+26. **English:** For a long time, eating had bored him, and he never carried a lunch.  
+    **Español:** Desde hacía tiempo, comer le había aburrido, y nunca llevaba almuerzo.
 
-54. **English:** “I will take the things back to the Terrace.”  
-    **Español:** “Llevaré las cosas de regreso a la Terraza.”
+27. **English:** He had a bottle of water in the bow of the skiff, and that was all he needed for the day.  
+    **Español:** Tenía una botella de agua en la proa del esquife, y eso era todo lo que necesitaba para el día.
 
-55. **English:** [23] “Good night then.”  
-    **Español:** [23] “Buenas noches, entonces.”
-
-56. **English:** “I will wake you in the morning.”  
-    **Español:** “Te despertaré por la mañana.”
-
-57. **English:** “You’re my alarm clock,” the boy said.  
-    **Español:** “Eres mi despertador,” dijo el muchacho.
-
-58. **English:** “Age is my alarm clock,” the old man said.  
-    **Español:** “La edad es mi despertador,” dijo el viejo.
-
-59. **English:** “Why do old men wake so early?”  
-    **Español:** “¿Por qué los viejos se despiertan tan temprano?”
-
-60. **English:** “Is it to have one longer day?”  
-    **Español:** “¿Es para tener un día más largo?”
+28. **English:** The boy returned with the sardines and the two baits wrapped in a newspaper, and they went down the trail to the skiff, feeling the pebbled sand under their feet, and lifted the skiff and slid it into the water.  
+    **Español:** El muchacho regresó con las sardinas y los dos cebos envueltos en un periódico, bajaron por el sendero hasta el esquife, sintiendo la arena de guijarros bajo sus pies, y levantaron el esquife para deslizarlo en el agua.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-## Dialogue Part 7 (Lines 61-68) <a name="dialogue-part-7-lines-61-68"></a>
+## Narrative Part 8: Section 6 (Lines 29–32) <a name="narrative-part-8-section-6-lines-29-32"></a>
 
-61. **English:** “I don’t know,” the boy said.  
-    **Español:** “No lo sé,” dijo el muchacho.
+29. **English:** “Good luck, old man,” someone called.  
+    **Español:** “Buena suerte, viejo”, llamó alguien.
 
-62. **English:** “All I know is that young boys sleep late and hard.”  
-    **Español:** “Todo lo que sé es que los muchachos jóvenes duermen tarde y profundamente.”
+30. **English:** “Good luck,” the old man replied.  
+    **Español:** “Buena suerte”, respondió el viejo.
 
-63. **English:** “I can remember it,” the old man said.  
-    **Español:** “Puedo recordarlo,” dijo el viejo.
+31. **English:** He fitted the rope lashings of the oars onto the thole pins and, leaning forward against the thrust of the blades in the water, began to row out of the harbour in the dark.  
+    **Español:** Ajustó las amarres de las cuerdas de los remos a los pernos y, inclinándose hacia adelante contra el empuje de las palas en el agua, comenzó a remar fuera del puerto en la oscuridad.
 
-64. **English:** “I’ll waken you in time.”  
-    **Español:** “Te despertaré a tiempo.”
-
-65. **English:** “I do not like for him to waken me.”  
-    **Español:** “No me gusta que me despierte.”
-
-66. **English:** “It is as though I were inferior.”  
-    **Español:** “Es como si fuera inferior.”
-
-67. **English:** “I know.”  
-    **Español:** “Lo sé.”
-
-68. **English:** “Sleep well old man.”  
-    **Español:** “Que duermas bien, viejo.”
+32. **English:** There were other boats from different beaches heading out to sea, and the old man heard the dip and push of their oars even though he could not see them, as the moon lay below the hills.  
+    **Español:** Había otros botes de distintas playas que se dirigían al mar, y el viejo escuchaba el chapoteo y empuje de sus remos, aunque no podía verlos, ya que la luna se hallaba bajo las colinas.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-## Narrative (Lines 69-83) <a name="narrative-lines-69-83"></a>
+## Narrative Part 8: Section 7 (Lines 33–38) <a name="narrative-part-8-section-7-lines-33-38"></a>
 
-![Old Man Sleeping](/images/medjourneyai_old_fisherman_sleeping_on_a_cot_in_a_beach_hut_in__bd959b09-28c6-496c-8255-c94c145473ef.png "Old Man Sleeping")
+33. **English:** Sometimes, someone would speak from a boat.  
+    **Español:** A veces, alguien hablaba desde un bote.
 
-69. **English:** The boy went out.  
-    **Español:** El muchacho salió.
+34. **English:** But most of the boats remained silent, except for the dip of the oars.  
+    **Español:** Pero la mayoría de los botes permanecían en silencio, salvo por el chapoteo de los remos.
 
-70. **English:** They had eaten with no light on the table and the old man took off his trousers and went to bed in the dark.  
-    **Español:** Habían comido sin luz en la mesa y el viejo se quitó los pantalones y se fue a la cama en la oscuridad.
+35. **English:** They spread apart after leaving the mouth of the harbour, each heading toward the part of the ocean where he hoped to find fish.  
+    **Español:** Se separaron tras salir de la boca del puerto, cada uno dirigiéndose hacia la parte del océano donde esperaba encontrar peces.
 
-71. **English:** He rolled his trousers up to make a pillow, putting the newspaper inside them.  
-    **Español:** Se enrolló los pantalones para hacer una almohada, metiendo el periódico dentro de ellos.
+36. **English:** The old man knew he was venturing far out, leaving the smell of the land behind as he rowed into the clean, early morning scent of the ocean.  
+    **Español:** El viejo sabía que se aventuraba muy lejos, dejando atrás el olor de la tierra mientras remaba hacia el fresco aroma matutino del océano.
 
-72. **English:** He rolled himself in the blanket and slept on the other old newspapers that covered the springs of the bed.  
-    **Español:** Se envolvió en la manta y durmió sobre los otros periódicos viejos que cubrían los resortes de la cama.
+37. **English:** He saw the phosphorescence of the Gulf weed in the water as he rowed over the part of the ocean that fishermen called the “great well” because of a sudden deep of seven hundred fathoms where all sorts of fish congregated, drawn by the swirling current against the steep walls of the ocean floor.  
+    **Español:** Vio la fosforescencia de la alga del Golfo en el agua mientras remaba sobre la parte del océano que los pescadores llamaban “el gran pozo”, debido a un repentino abismo de setecientas brazas donde se congregaban todo tipo de peces, atraídos por la corriente que giraba contra las empinadas paredes del fondo marino.
 
-73. **English:** He was asleep in a short time and he dreamed of Africa when he was a boy and the long golden beaches and the white beaches, so white they hurt your eyes, and the high capes and the great brown mountains.  
-    **Español:** Se durmió en poco tiempo y soñó con África cuando era joven, con las largas playas doradas y las playas blancas, tan blancas que lastimaban los ojos, y con los altos cabos y las grandes montañas marrones.
-
-74. **English:** He lived along that coast now every night and in his dreams he heard the surf roar and saw the native boats [24] come riding through it.  
-    **Español:** Ahora vivía a lo largo de esa costa cada noche y en sus sueños escuchaba el rugir del oleaje y veía a los barcos nativos [24] surcarlo.
-
-75. **English:** He smelled the tar and oakum of the deck as he slept and he smelled the smell of Africa that the land breeze brought at morning.  
-    **Español:** Mientras dormía, olfateaba el alquitrán y el oakum de la cubierta, y percibía el aroma de África que la brisa terrestre traía por la mañana.
-
-76. **English:** Usually when he smelled the land breeze he woke up and dressed to go and wake the boy.  
-    **Español:** Usualmente, cuando olía la brisa terrestre, se despertaba y se vestía para ir a despertar al muchacho.
-
-77. **English:** But tonight the smell of the land breeze came very early and he knew it was too early in his dream and went on dreaming to see the white peaks of the Islands rising from the sea and then he dreamed of the different harbours and roadsteads of the Canary Islands.  
-    **Español:** Pero esa noche el aroma de la brisa terrestre llegó muy temprano y supo que era demasiado pronto en su sueño, así que siguió soñando con ver los picos blancos de las islas elevándose desde el mar, y luego soñó con los diferentes puertos y fondeaderos de las Islas Canarias.
-
-78. **English:** He no longer dreamed of storms, nor of women, nor of great occurrences, nor of great fish, nor fights, nor contests of strength, nor of his wife.  
-    **Español:** Ya no soñaba con tormentas, ni con mujeres, ni con grandes acontecimientos, ni con grandes peces, ni con peleas, ni con concursos de fuerza, ni con su esposa.
-
-79. **English:** He only dreamed of places now and of the lions on the beach.  
-    **Español:** Ahora solo soñaba con lugares y con los leones en la playa.
-
-80. **English:** They played like young cats in the dusk and he loved them as he loved the boy.  
-    **Español:** Jugaban como gatitos al atardecer y los amaba como amaba al muchacho.
-
-81. **English:** He never dreamed about the boy.  
-    **Español:** Nunca soñaba con el muchacho.
-
-82. **English:** He simply woke, looked out the open door at the moon and unrolled his trousers and put them on.  
-    **Español:** Simplemente se despertó, miró por la puerta abierta hacia la luna, desenrolló sus pantalones y se los puso.
-
-83. **English:** He urinated.  
-    **Español:** Orinó.
+38. **English:** Here, there were concentrations of shrimp and bait fish, and sometimes schools of squid in the deepest holes that rose close to the surface at night, where all the wandering fish fed on them.  
+    **Español:** Aquí, había concentraciones de camarones y peces de cebo, y a veces bancos de calamares en los agujeros más profundos que se elevaban cerca de la superficie por la noche, donde se alimentaban todos los peces errantes.
 
 [Back to TOC](#table-of-contents)
 
 ---
 
-*Note: Use the "Back to TOC" links above to quickly navigate back to the Table of Contents and help you keep track of your reading position on your phone.*
+## Narrative Part 8: Section 8 (Lines 39–44) <a name="narrative-part-8-section-8-lines-39-44"></a>
 
+39. **English:** In the dark, the old man could feel the coming of morning, and as he rowed, he heard the trembling sound of flying fish leaping from the water and the hissing of their stiff, set wings as they soared away.  
+    **Español:** En la oscuridad, el viejo podía sentir la llegada de la mañana, y mientras remaba, escuchaba el tembloroso sonido de los peces voladores saltando del agua y el siseo de sus alas rígidas al elevarse.
+
+40. **English:** He was very fond of flying fish, for they were his principal friends on the ocean.  
+    **Español:** Tenía un gran cariño por los peces voladores, pues eran sus amigos principales en el océano.
+
+41. **English:** He felt pity for the birds, especially the small, delicate, dark terns that were always flying, searching, and almost never finding.  
+    **Español:** Sentía compasión por las aves, especialmente por aquellas pequeñas, delicadas y oscuras charranes que siempre volaban, buscaban y casi nunca encontraban.
+
+42. **English:** He thought that birds have a harder life than humans do, except for the robber birds and the heavy, strong ones.  
+    **Español:** Pensaba que las aves tenían una vida más dura que la de los humanos, salvo las aves ladronas y las fuertes y robustas.
+
+43. **English:** “Why,” he wondered, “did they make birds as delicate and fine as sea swallows when the ocean can be so cruel?”  
+    **Español:** “¿Por qué”, se preguntaba, “hacen a las aves tan delicadas y finas como las golondrinas marinas cuando el océano puede ser tan cruel?”
+
+44. **English:** She is kind and very beautiful, but she can be so cruel and it comes so suddenly; birds that fly, dipping and hunting, with their small, sad voices are made too delicately for the sea.  
+    **Español:** Ella es amable y muy bella, pero puede ser tan cruel y llega de forma repentina; las aves que vuelan, zambulléndose y cazando, con sus voces pequeñas y tristes, son demasiado delicadas para el mar.
+
+[Back to TOC](#table-of-contents)
+
+---
+
+## Narrative Part 8: Section 9 (Lines 45–52) <a name="narrative-part-8-section-9-lines-45-52"></a>
+
+45. **English:** He always thought of the sea as “la mar,” which is what people call her in Spanish when they love her.  
+    **Español:** Siempre pensaba en el mar como “la mar”, que es como la llaman en español quienes la aman.
+
+46. **English:** Sometimes, those who love her say bad things about her, yet they always speak of her as if she were a woman.  
+    **Español:** A veces, quienes la aman dicen cosas negativas de ella, pero siempre se refieren a ella como si fuera una mujer.
+
+47. **English:** Some of the younger fishermen—those who used buoys as floats for their lines and had motorboats, when shark livers had brought in much money—spoke of her as “el mar” in the masculine.  
+    **Español:** Algunos de los pescadores más jóvenes—los que usaban boyas como flotadores para sus líneas y tenían lanchas, cuando los hígados de tiburón les habían traído mucho dinero—la llamaban “el mar” en masculino.
+
+48. **English:** They described her as a contestant, a place, or even an enemy.  
+    **Español:** La describían como una contendiente, un lugar o incluso una enemiga.
+
+49. **English:** But the old man always thought of her as feminine—something that bestowed or withheld great favors—and if she did wild or wicked things, it was because she could not help them.  
+    **Español:** Pero el viejo siempre la veía como femenina, algo que otorgaba o negaba grandes favores, y si hacía cosas salvajes o malvadas, era porque no podía evitarlo.
+
+50. **English:** The moon affects her as it does a woman, he thought.  
+    **Español:** La luna la afecta como a una mujer, pensó.
+
+51. **English:** He was rowing steadily, with little effort, for he kept well within his pace, and the surface of the ocean was flat except for the occasional swirls of the current.  
+    **Español:** Remaba de manera constante, sin gran esfuerzo, pues se mantenía en su ritmo, y la superficie del océano estaba lisa salvo por los remolinos ocasionales de la corriente.
+
+52. **English:** He let the current do a third of the work, and as it began to lighten, he realized he was already farther out than he had hoped to be at that hour.  
+    **Español:** Dejó que la corriente hiciera un tercio del trabajo, y al clarear, se dio cuenta de que ya estaba más lejos de lo que había esperado a esa hora.
+
+[Back to TOC](#table-of-contents)

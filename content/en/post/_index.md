@@ -1,5 +1,25 @@
----
-title: "Articles"
-date: 2017-03-02T12:00:00-05:00
----
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ .Title }}</h1>
+    <p>Solomon, Christian, Miriam, and Shyloe Reading.</p>
+  </header>
+  
+  <section>
+    <h2>Chapters</h2>
+    <ul>
+      {{ range where .Site.RegularPages "Section" "post" }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+</body>
+</html>

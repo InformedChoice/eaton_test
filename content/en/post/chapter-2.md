@@ -1,6 +1,9 @@
 ---
-title: "Chapter 2 Reading"
+title: "Part 8: The Morning Journey"
 date: 2025-02-02
+featured_image: "/images/old-man-sea.jpg"
+description: "The old man and the boy prepare for a day at sea"
+tags: ["hemingway"]
 draft: false
 ---
 

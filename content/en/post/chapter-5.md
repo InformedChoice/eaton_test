@@ -1,6 +1,9 @@
 ---
-title: "Chapter 5: Reading"
+title: "Part 11: The Long Night"
 date: 2025-02-02
+featured_image: "/images/old-man-sea.jpg"
+description: "The old man endures a long night with the marlin"
+tags: ["hemingway"]
 draft: false
 ---
 

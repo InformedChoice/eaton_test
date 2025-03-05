@@ -1,8 +1,8 @@
 ---
-title: "Chapter 1: The Old Man and the Sea"
+title: "Part 7: Introduction"
 date: 2025-02-02
 featured_image: "/images/old-man-sea.jpg"
-description: "Bilingual reading in English and Spanish"
+description: "The beginning of Hemingway's classic tale"
 tags: ["hemingway"]
 draft: false
 ---

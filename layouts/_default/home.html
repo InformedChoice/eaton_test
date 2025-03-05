@@ -21,9 +21,9 @@
         </ul>
       </div>
       <div class="chapter-list">
-        <h4 class="f4 mb2">Chapters:</h4>
+        <h4 class="f4 mb2">Table of Contents:</h4>
         <ul class="list pl0">
-          {{ range where .Site.RegularPages "Section" "post" }}
+          {{ range $index, $page := sort (where .Site.RegularPages "Section" "post") "Title" "asc" }}
             <li class="mb2">
               <a href="{{ .Permalink }}" class="link blue dim pa2 db br2 bg-washed-blue">
                 {{ .Title }}

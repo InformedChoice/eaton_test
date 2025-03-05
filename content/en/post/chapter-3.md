@@ -1,6 +1,9 @@
 ---
-title: "Chapter 3: Reading"
+title: "Part 9: Fishing at Sea"
 date: 2025-02-02
+featured_image: "/images/old-man-sea.jpg"
+description: "The old man searches for fish in the deep waters"
+tags: ["hemingway"]
 draft: false
 ---
 

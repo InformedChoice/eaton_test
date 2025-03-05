@@ -1,6 +1,9 @@
 ---
-title: "Chapter 1: Getting Started"
+title: "Part 10: The Great Fish"
 date: 2025-02-02
+featured_image: "/images/old-man-sea.jpg"
+description: "The old man hooks a giant marlin"
+tags: ["hemingway"]
 draft: false
 ---
 

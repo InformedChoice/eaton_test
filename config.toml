@@ -1,9 +1,26 @@
 baseURL = "https://playful-cannoli-2eca65.netlify.app/"
-title = "Eaton Test Demo"
+title = "Rogers Daily Reading"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 theme = "ananke"
 
 [params]
-read_more_copy = "Read more about this entry"
+  description = "Bilingual reading content for elementary school children"
+  featured_image = "/images/reading-hero.jpg"
+  background_color_class = "bg-navy"
+  body_classes = "sans-serif"
+  read_more_copy = "Continue Reading"
+  
+[languages]
+  [languages.en]
+    title = "Rogers Daily Reading"
+    weight = 1
+  [languages.es]
+    title = "Lectura Diaria Rogers"
+    weight = 2
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 

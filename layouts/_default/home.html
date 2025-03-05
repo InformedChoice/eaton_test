@@ -1,17 +1,37 @@
 {{ define "main" }}
-  <header>
-    <h1>{{ .Title }}</h1>
-    <p>Solomon, Christian, Miriam, and Shyloe Reading.</p>
+  <header class="site-header">
+    <h1 class="f1">{{ .Title }}</h1>
+    <p class="f4 mb4">{{ .Description }}</p>
   </header>
 
-  <section>
-    <h2>Chapters</h2>
-    <ul>
-      {{ range where .Site.RegularPages "Section" "post" }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-    </ul>
+  <section class="site-content">
+    {{ .Content }}
+
+    <div class="current-book pa4 bg-light-gray br3 mb4">
+      <h2 class="f2 mb3">Current Book</h2>
+      <h3 class="f3 mb2">The Old Man and the Sea - Ernest Hemingway</h3>
+      <p class="mb3">A classic story of an aging Cuban fisherman's struggle with a giant marlin.</p>
+      <div class="reader-list mb3">
+        <p class="b">For our readers:</p>
+        <ul class="list pl3">
+          <li>Solomon</li>
+          <li>Christian</li>
+          <li>Miriam</li>
+          <li>Shiloh</li>
+        </ul>
+      </div>
+      <div class="chapter-list">
+        <h4 class="f4 mb2">Chapters:</h4>
+        <ul class="list pl0">
+          {{ range where .Site.RegularPages "Section" "post" }}
+            <li class="mb2">
+              <a href="{{ .Permalink }}" class="link blue dim pa2 db br2 bg-washed-blue">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
   </section>
 {{ end }}

@@ -1,14 +1,18 @@
 ---
-title: "Chapter 1: Reading"
+title: "Chapter 1: The Old Man and the Sea"
 date: 2025-02-02
+featured_image: "/images/old-man-sea.jpg"
+description: "Bilingual reading in English and Spanish"
+tags: ["hemingway"]
 draft: false
 ---
 
 
+# The Old Man and the Sea (El Viejo y el Mar)
 
-# Bilingual Reading: English & Spanish
+*By Ernest Hemingway*
 
-![The Old Man and the Sea](https://via.placeholder.com/1920x1080 "The Old Man and the Sea")
+**Bilingual Reading for Solomon, Christian, Miriam, and Shiloh**
 
 
 ---

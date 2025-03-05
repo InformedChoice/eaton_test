@@ -1,15 +1,20 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
-featured_image: "/images/old-man-sea.jpg"
-description: ""
-tags: ["hemingway"]
+title: "Part 1: Meeting the Pilot"
+date: 2025-03-05T11:22:43-08:00
+featured_image: "/images/the-little-prince.jpg"
+description: "The narrator crashes in the desert and meets an extraordinary child"
+book: "The Little Prince"
+author: "Antoine de Saint-Exupéry"
+part: 1
+tags: ["saint-exupery"]
 draft: true
 ---
 
-# {{ replace .File.ContentBaseName "-" " " | title }}
+# Part 1: Meeting the Pilot
 
-*Bilingual Reading for Solomon, Christian, Miriam, and Shiloh*
+*By Antoine de Saint-Exupéry*
+
+**Bilingual Reading for Solomon, Christian, Miriam, and Shiloh**
 
 ---
 

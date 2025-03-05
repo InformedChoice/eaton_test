@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/books/</loc>
+    <lastmod>2025-03-05T11:22:43-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/books/the-little-prince/part-1-meeting-the-pilot/</loc>
+    <lastmod>2025-03-05T11:22:43-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-02T14:40:43-08:00</lastmod>
+    <lastmod>2025-03-05T11:22:43-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -15,11 +21,36 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-02-02T14:40:43-08:00</lastmod>
+    <loc>http://localhost:1313/tags/saint-exupery/</loc>
+    <lastmod>2025-03-05T11:22:43-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-05T11:22:43-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/books/the-little-prince/</loc>
+    <lastmod>2025-03-05T11:18:27-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hemingway/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-05T11:18:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/part-13-shark-attack/</loc>
+    <lastmod>2025-03-05T11:18:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-05T11:18:08-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2025-02-02T14:40:43-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/post/chapter-4/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
@@ -39,19 +70,6 @@
     <loc>http://localhost:1313/en/post/chapter-3/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/post/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,6 +86,8 @@
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/books/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link

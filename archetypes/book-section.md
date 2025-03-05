@@ -1,15 +1,20 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+title: "Part {{ if (ne .Name "post") }}{{ .Name }}{{ else }}{{ index (split .File.ContentBaseName "-") 1 }}{{ end }}: {{ replace (replaceRE "^part-\\d+-" "" .File.ContentBaseName) "-" " " | title }}"
 date: {{ .Date }}
 featured_image: "/images/old-man-sea.jpg"
 description: ""
+book: ""
+author: ""
+part: {{ if (ne .Name "post") }}{{ .Name }}{{ else }}{{ index (split .File.ContentBaseName "-") 1 }}{{ end }}
 tags: ["hemingway"]
 draft: true
 ---
 
-# {{ replace .File.ContentBaseName "-" " " | title }}
+# Part {{ if (ne .Name "post") }}{{ .Name }}{{ else }}{{ index (split .File.ContentBaseName "-") 1 }}{{ end }}: {{ replace (replaceRE "^part-\\d+-" "" .File.ContentBaseName) "-" " " | title }}
 
-*Bilingual Reading for Solomon, Christian, Miriam, and Shiloh*
+*By Ernest Hemingway*
+
+**Bilingual Reading for Solomon, Christian, Miriam, and Shiloh**
 
 ---
 

@@ -1,15 +1,20 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-date: {{ .Date }}
+title: "Part 13: Shark Attack"
+date: 2025-03-05T11:18:08-08:00
 featured_image: "/images/old-man-sea.jpg"
-description: ""
+description: "The old man defends his catch against sharks"
+book: "The Old Man and the Sea"
+author: "Ernest Hemingway"
+part: 13
 tags: ["hemingway"]
 draft: true
 ---
 
-# {{ replace .File.ContentBaseName "-" " " | title }}
+# Part 13: Shark Attack
 
-*Bilingual Reading for Solomon, Christian, Miriam, and Shiloh*
+*By Ernest Hemingway*
+
+**Bilingual Reading for Solomon, Christian, Miriam, and Shiloh**
 
 ---
 
